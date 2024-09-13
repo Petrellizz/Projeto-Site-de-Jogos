@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+    .carousel .card-deck  {
+      height: 300px
+   }
+ }
+
+.card-img-top {
+   height: 250px;
+   width: auto;
+ }
